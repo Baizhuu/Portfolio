@@ -37,11 +37,6 @@ body{
 }
 
 
-#about{
-  padding: 25px;
-  padding-bottom: 100px;
-  background-color: #74A12E;
-}
 
 .title{
   padding-top: 50px;
@@ -54,19 +49,4 @@ body{
   
 }
 
-.about .me{
-  font-size: 25px;
-  font-weight: 600;
-  color: white ;
-}
-
-.about .occupation{
-  color: white;
-}
-
-.about .ako{
-  color: white;
-  font-weight: 20;
-  font-size: 12px;
-}
 
